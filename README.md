@@ -3,7 +3,7 @@
 JaQo is a quantum-inspired music generation tool that uses Partitioned Quantum Cellular Automata (PQCA) to create unique MIDI compositions.
 The project is being realized for the Algorithmic Music and Sound Computing course taught by Prof. R. Zaccagnino and Prof. R. De Prisco at Computer Science Master's Degree at University of Salerno.
 
-TODO: add relation PDF file;
+TODO: add report PDF file;
 TODO: explain more about JaQo and CAMUS protocol
 TODO: cite the original repository
 
