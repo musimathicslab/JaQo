@@ -86,6 +86,11 @@ jaqo/
 
 Contributions are welcome. Please feel free to submit a Pull Request.
 
+
+## Credits
+
+The project is partially based on the [PQCA repository](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main) created by the [Interdisciplinary Centre for Computer Music Research (ICCMR)](https://www.plymouth.ac.uk/research/iccmr) at University of Plymouth (UK).
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
